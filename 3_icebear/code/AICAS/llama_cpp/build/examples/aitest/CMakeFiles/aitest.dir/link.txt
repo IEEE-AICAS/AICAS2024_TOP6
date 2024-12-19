@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/aitest.dir/aitest.cpp.o  -o ../../bin/aitest  ../../common/libcommon.a ../../libllama.a -pthread -pthread 

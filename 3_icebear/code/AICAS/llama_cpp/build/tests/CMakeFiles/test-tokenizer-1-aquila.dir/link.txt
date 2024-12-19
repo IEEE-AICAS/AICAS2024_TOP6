@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test-tokenizer-1-aquila.dir/test-tokenizer-1-bpe.cpp.o CMakeFiles/test-tokenizer-1-aquila.dir/get-model.cpp.o ../common/CMakeFiles/json-schema-to-grammar.dir/json-schema-to-grammar.cpp.o  -o ../bin/test-tokenizer-1-aquila  ../common/libcommon.a ../libllama.a -pthread 

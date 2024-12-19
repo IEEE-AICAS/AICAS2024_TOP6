@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test-rope.dir/test-rope.cpp.o CMakeFiles/test-rope.dir/get-model.cpp.o ../common/CMakeFiles/json-schema-to-grammar.dir/json-schema-to-grammar.cpp.o  -o ../bin/test-rope  ../common/libcommon.a ../libllama.a -pthread 

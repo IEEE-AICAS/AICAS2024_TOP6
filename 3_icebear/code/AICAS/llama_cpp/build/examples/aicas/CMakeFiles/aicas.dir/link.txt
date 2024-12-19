@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/aicas.dir/aicas.cpp.o  -o ../../bin/aicas  ../../common/libcommon.a ../../libllama.a -pthread -pthread 

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ggml.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+stdio.h
+-
+
+/root/AICAS/llama_cpp/tests/get-model.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+get-model.h
+/root/AICAS/llama_cpp/tests/get-model.h
+
+/root/AICAS/llama_cpp/tests/get-model.h
+
+/root/AICAS/llama_cpp/tests/test-quantize-fns.cpp
+ggml.h
+/root/AICAS/llama_cpp/tests/ggml.h
+assert.h
+-
+math.h
+-
+stdio.h
+-
+string
+-
+vector
+-
+

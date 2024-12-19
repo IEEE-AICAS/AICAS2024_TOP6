@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test-quantize-fns.dir/test-quantize-fns.cpp.o CMakeFiles/test-quantize-fns.dir/get-model.cpp.o ../common/CMakeFiles/json-schema-to-grammar.dir/json-schema-to-grammar.cpp.o  -o ../bin/test-quantize-fns  ../common/libcommon.a ../libllama.a -pthread 

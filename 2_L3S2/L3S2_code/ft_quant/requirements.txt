@@ -1,0 +1,5 @@
+autoawq
+einops 
+transformers_stream_generator
+tiktoken
+sentencepiece

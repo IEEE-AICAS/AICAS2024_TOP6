@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test-tokenizer-1-baichuan.dir/test-tokenizer-1-llama.cpp.o CMakeFiles/test-tokenizer-1-baichuan.dir/get-model.cpp.o ../common/CMakeFiles/json-schema-to-grammar.dir/json-schema-to-grammar.cpp.o  -o ../bin/test-tokenizer-1-baichuan  ../common/libcommon.a ../libllama.a -pthread 

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ggml.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+stdio.h
+-
+
+/root/AICAS/llama_cpp/examples/gguf/gguf.cpp
+ggml.h
+/root/AICAS/llama_cpp/examples/gguf/ggml.h
+cstdio
+-
+cinttypes
+-
+string
+-
+sstream
+-
+fstream
+-
+vector
+-
+

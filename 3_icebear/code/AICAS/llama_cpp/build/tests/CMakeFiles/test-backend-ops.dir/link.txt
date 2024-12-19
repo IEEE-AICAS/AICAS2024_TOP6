@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test-backend-ops.dir/test-backend-ops.cpp.o CMakeFiles/test-backend-ops.dir/get-model.cpp.o ../common/CMakeFiles/json-schema-to-grammar.dir/json-schema-to-grammar.cpp.o  -o ../bin/test-backend-ops  ../common/libcommon.a ../libllama.a -pthread 

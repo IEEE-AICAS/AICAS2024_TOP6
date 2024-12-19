@@ -1,0 +1,527 @@
+[
+{
+  "directory": "/root/AICAS/llama_cpp/build",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -pthread -std=gnu++11 -o CMakeFiles/llama.dir/llama.cpp.o -c /root/AICAS/llama_cpp/llama.cpp",
+  "file": "/root/AICAS/llama_cpp/llama.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -pthread -std=gnu++11 -o CMakeFiles/llama.dir/unicode.cpp.o -c /root/AICAS/llama_cpp/unicode.cpp",
+  "file": "/root/AICAS/llama_cpp/unicode.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -pthread -std=gnu++11 -o CMakeFiles/llama.dir/unicode-data.cpp.o -c /root/AICAS/llama_cpp/unicode-data.cpp",
+  "file": "/root/AICAS/llama_cpp/unicode-data.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build",
+  "command": "/usr/bin/cc -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -march=armv8.6-a -O3 -DNDEBUG   -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -pthread -std=gnu11 -o CMakeFiles/ggml.dir/ggml.c.o   -c /root/AICAS/llama_cpp/ggml.c",
+  "file": "/root/AICAS/llama_cpp/ggml.c"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build",
+  "command": "/usr/bin/cc -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -march=armv8.6-a -O3 -DNDEBUG   -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -pthread -std=gnu11 -o CMakeFiles/ggml.dir/ggml-alloc.c.o   -c /root/AICAS/llama_cpp/ggml-alloc.c",
+  "file": "/root/AICAS/llama_cpp/ggml-alloc.c"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build",
+  "command": "/usr/bin/cc -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -march=armv8.6-a -O3 -DNDEBUG   -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -pthread -std=gnu11 -o CMakeFiles/ggml.dir/ggml-backend.c.o   -c /root/AICAS/llama_cpp/ggml-backend.c",
+  "file": "/root/AICAS/llama_cpp/ggml-backend.c"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build",
+  "command": "/usr/bin/cc -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -march=armv8.6-a -O3 -DNDEBUG   -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -pthread -std=gnu11 -o CMakeFiles/ggml.dir/ggml-quants.c.o   -c /root/AICAS/llama_cpp/ggml-quants.c",
+  "file": "/root/AICAS/llama_cpp/ggml-quants.c"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -pthread -std=gnu++11 -o CMakeFiles/ggml.dir/sgemm.cpp.o -c /root/AICAS/llama_cpp/sgemm.cpp",
+  "file": "/root/AICAS/llama_cpp/sgemm.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/common",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/common.dir/common.cpp.o -c /root/AICAS/llama_cpp/common/common.cpp",
+  "file": "/root/AICAS/llama_cpp/common/common.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/common",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/common.dir/sampling.cpp.o -c /root/AICAS/llama_cpp/common/sampling.cpp",
+  "file": "/root/AICAS/llama_cpp/common/sampling.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/common",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/common.dir/console.cpp.o -c /root/AICAS/llama_cpp/common/console.cpp",
+  "file": "/root/AICAS/llama_cpp/common/console.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/common",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/common.dir/grammar-parser.cpp.o -c /root/AICAS/llama_cpp/common/grammar-parser.cpp",
+  "file": "/root/AICAS/llama_cpp/common/grammar-parser.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/common",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/common.dir/train.cpp.o -c /root/AICAS/llama_cpp/common/train.cpp",
+  "file": "/root/AICAS/llama_cpp/common/train.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/common",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/common.dir/ngram-cache.cpp.o -c /root/AICAS/llama_cpp/common/ngram-cache.cpp",
+  "file": "/root/AICAS/llama_cpp/common/ngram-cache.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/common",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/json-schema-to-grammar.dir/json-schema-to-grammar.cpp.o -c /root/AICAS/llama_cpp/common/json-schema-to-grammar.cpp",
+  "file": "/root/AICAS/llama_cpp/common/json-schema-to-grammar.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/common",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/build_info.dir/build-info.cpp.o -c /root/AICAS/llama_cpp/common/build-info.cpp",
+  "file": "/root/AICAS/llama_cpp/common/build-info.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-0-falcon.dir/test-tokenizer-0-falcon.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-0-falcon.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-0-falcon.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-0-falcon.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-grad0.dir/test-grad0.cpp.o -c /root/AICAS/llama_cpp/tests/test-grad0.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-grad0.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-grad0.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-stablelm-3b-4e1t.dir/test-tokenizer-1-bpe.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-stablelm-3b-4e1t.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-aquila.dir/test-tokenizer-1-bpe.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-aquila.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-mpt.dir/test-tokenizer-1-bpe.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-mpt.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-backend-ops.dir/test-backend-ops.cpp.o -c /root/AICAS/llama_cpp/tests/test-backend-ops.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-backend-ops.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-backend-ops.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-falcon.dir/test-tokenizer-1-bpe.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-falcon.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-llama.dir/test-tokenizer-1-llama.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-llama.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-llama.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-llama.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-0-llama.dir/test-tokenizer-0-llama.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-0-llama.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-0-llama.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-0-llama.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-chat-template.dir/test-chat-template.cpp.o -c /root/AICAS/llama_cpp/tests/test-chat-template.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-chat-template.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-chat-template.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-quantize-perf.dir/test-quantize-perf.cpp.o -c /root/AICAS/llama_cpp/tests/test-quantize-perf.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-quantize-perf.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-quantize-perf.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-sampling.dir/test-sampling.cpp.o -c /root/AICAS/llama_cpp/tests/test-sampling.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-sampling.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-sampling.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-refact.dir/test-tokenizer-1-bpe.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-refact.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-gpt-neox.dir/test-tokenizer-1-bpe.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-gpt-neox.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-baichuan.dir/test-tokenizer-1-llama.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-llama.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-llama.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-baichuan.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-llama-grammar.dir/test-llama-grammar.cpp.o -c /root/AICAS/llama_cpp/tests/test-llama-grammar.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-llama-grammar.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-llama-grammar.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-quantize-fns.dir/test-quantize-fns.cpp.o -c /root/AICAS/llama_cpp/tests/test-quantize-fns.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-quantize-fns.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-quantize-fns.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-grammar-parser.dir/test-grammar-parser.cpp.o -c /root/AICAS/llama_cpp/tests/test-grammar-parser.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-grammar-parser.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-grammar-parser.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-rope.dir/test-rope.cpp.o -c /root/AICAS/llama_cpp/tests/test-rope.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-rope.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-rope.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-gpt2.dir/test-tokenizer-1-bpe.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-gpt2.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-autorelease.dir/test-autorelease.cpp.o -c /root/AICAS/llama_cpp/tests/test-autorelease.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-autorelease.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-autorelease.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-starcoder.dir/test-tokenizer-1-bpe.cpp.o -c /root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-tokenizer-1-starcoder.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/tests/../examples/server -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-json-schema-to-grammar.dir/test-json-schema-to-grammar.cpp.o -c /root/AICAS/llama_cpp/tests/test-json-schema-to-grammar.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-json-schema-to-grammar.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/tests/../examples/server -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-json-schema-to-grammar.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/cc -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/.  -march=armv8.6-a -O3 -DNDEBUG   -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -std=gnu11 -o CMakeFiles/test-c.dir/test-c.c.o   -c /root/AICAS/llama_cpp/tests/test-c.c",
+  "file": "/root/AICAS/llama_cpp/tests/test-c.c"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-model-load-cancel.dir/test-model-load-cancel.cpp.o -c /root/AICAS/llama_cpp/tests/test-model-load-cancel.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/test-model-load-cancel.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/tests",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/test-model-load-cancel.dir/get-model.cpp.o -c /root/AICAS/llama_cpp/tests/get-model.cpp",
+  "file": "/root/AICAS/llama_cpp/tests/get-model.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/aicas",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/aicas.dir/aicas.cpp.o -c /root/AICAS/llama_cpp/examples/aicas/aicas.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/aicas/aicas.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/aitest",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/aitest.dir/aitest.cpp.o -c /root/AICAS/llama_cpp/examples/aitest/aitest.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/aitest/aitest.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/baby-llama",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/baby-llama.dir/baby-llama.cpp.o -c /root/AICAS/llama_cpp/examples/baby-llama/baby-llama.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/baby-llama/baby-llama.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/batched",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/batched.dir/batched.cpp.o -c /root/AICAS/llama_cpp/examples/batched/batched.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/batched/batched.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/batched-bench",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/batched-bench.dir/batched-bench.cpp.o -c /root/AICAS/llama_cpp/examples/batched-bench/batched-bench.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/batched-bench/batched-bench.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/beam-search",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/beam-search.dir/beam-search.cpp.o -c /root/AICAS/llama_cpp/examples/beam-search/beam-search.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/beam-search/beam-search.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/benchmark",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/examples/benchmark/../../common -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/benchmark.dir/benchmark-matmult.cpp.o -c /root/AICAS/llama_cpp/examples/benchmark/benchmark-matmult.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/benchmark/benchmark-matmult.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/convert-llama2c-to-ggml",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/convert-llama2c-to-ggml.dir/convert-llama2c-to-ggml.cpp.o -c /root/AICAS/llama_cpp/examples/convert-llama2c-to-ggml/convert-llama2c-to-ggml.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/convert-llama2c-to-ggml/convert-llama2c-to-ggml.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/embedding",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/embedding.dir/embedding.cpp.o -c /root/AICAS/llama_cpp/examples/embedding/embedding.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/embedding/embedding.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/finetune",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/finetune.dir/finetune.cpp.o -c /root/AICAS/llama_cpp/examples/finetune/finetune.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/finetune/finetune.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/gritlm",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/gritlm.dir/gritlm.cpp.o -c /root/AICAS/llama_cpp/examples/gritlm/gritlm.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/gritlm/gritlm.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/gguf-split",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/gguf-split.dir/gguf-split.cpp.o -c /root/AICAS/llama_cpp/examples/gguf-split/gguf-split.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/gguf-split/gguf-split.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/infill",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/infill.dir/infill.cpp.o -c /root/AICAS/llama_cpp/examples/infill/infill.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/infill/infill.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/llama-bench",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/llama-bench.dir/llama-bench.cpp.o -c /root/AICAS/llama_cpp/examples/llama-bench/llama-bench.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/llama-bench/llama-bench.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/llava",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/. -I/root/AICAS/llama_cpp/examples/llava/. -I/root/AICAS/llama_cpp/examples/llava/../.. -I/root/AICAS/llama_cpp/examples/llava/../../common  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/llava-cli.dir/llava-cli.cpp.o -c /root/AICAS/llama_cpp/examples/llava/llava-cli.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/llava/llava-cli.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/llava",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/examples/llava/. -I/root/AICAS/llama_cpp/examples/llava/../.. -I/root/AICAS/llama_cpp/examples/llava/../../common -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -Wno-cast-qual -pthread -std=gnu++11 -o CMakeFiles/llava.dir/llava.cpp.o -c /root/AICAS/llama_cpp/examples/llava/llava.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/llava/llava.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/llava",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/examples/llava/. -I/root/AICAS/llama_cpp/examples/llava/../.. -I/root/AICAS/llama_cpp/examples/llava/../../common -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -Wno-cast-qual -pthread -std=gnu++11 -o CMakeFiles/llava.dir/clip.cpp.o -c /root/AICAS/llama_cpp/examples/llava/clip.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/llava/clip.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/main",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /root/AICAS/llama_cpp/examples/main/main.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/main/main.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/tokenize",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/tokenize.dir/tokenize.cpp.o -c /root/AICAS/llama_cpp/examples/tokenize/tokenize.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/tokenize/tokenize.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/parallel",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/parallel.dir/parallel.cpp.o -c /root/AICAS/llama_cpp/examples/parallel/parallel.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/parallel/parallel.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/perplexity",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/perplexity.dir/perplexity.cpp.o -c /root/AICAS/llama_cpp/examples/perplexity/perplexity.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/perplexity/perplexity.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/quantize",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/examples/quantize/../../common -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/quantize.dir/quantize.cpp.o -c /root/AICAS/llama_cpp/examples/quantize/quantize.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/quantize/quantize.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/quantize-stats",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/examples/quantize-stats/../../common -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/quantize-stats.dir/quantize-stats.cpp.o -c /root/AICAS/llama_cpp/examples/quantize-stats/quantize-stats.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/quantize-stats/quantize-stats.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/retrieval",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/retrieval.dir/retrieval.cpp.o -c /root/AICAS/llama_cpp/examples/retrieval/retrieval.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/retrieval/retrieval.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/save-load-state",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/save-load-state.dir/save-load-state.cpp.o -c /root/AICAS/llama_cpp/examples/save-load-state/save-load-state.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/save-load-state/save-load-state.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/simple",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/simple.dir/simple.cpp.o -c /root/AICAS/llama_cpp/examples/simple/simple.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/simple/simple.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/passkey",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/passkey.dir/passkey.cpp.o -c /root/AICAS/llama_cpp/examples/passkey/passkey.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/passkey/passkey.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/speculative",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/speculative.dir/speculative.cpp.o -c /root/AICAS/llama_cpp/examples/speculative/speculative.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/speculative/speculative.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/lookahead",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/lookahead.dir/lookahead.cpp.o -c /root/AICAS/llama_cpp/examples/lookahead/lookahead.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/lookahead/lookahead.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/lookup",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/lookup-stats.dir/lookup-stats.cpp.o -c /root/AICAS/llama_cpp/examples/lookup/lookup-stats.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/lookup/lookup-stats.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/lookup",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/lookup-merge.dir/lookup-merge.cpp.o -c /root/AICAS/llama_cpp/examples/lookup/lookup-merge.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/lookup/lookup-merge.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/lookup",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/lookup-create.dir/lookup-create.cpp.o -c /root/AICAS/llama_cpp/examples/lookup/lookup-create.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/lookup/lookup-create.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/lookup",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/lookup.dir/lookup.cpp.o -c /root/AICAS/llama_cpp/examples/lookup/lookup.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/lookup/lookup.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/gguf",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -pthread -std=gnu++11 -o CMakeFiles/gguf.dir/gguf.cpp.o -c /root/AICAS/llama_cpp/examples/gguf/gguf.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/gguf/gguf.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/train-text-from-scratch",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/train-text-from-scratch.dir/train-text-from-scratch.cpp.o -c /root/AICAS/llama_cpp/examples/train-text-from-scratch/train-text-from-scratch.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/train-text-from-scratch/train-text-from-scratch.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/imatrix",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/imatrix.dir/imatrix.cpp.o -c /root/AICAS/llama_cpp/examples/imatrix/imatrix.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/imatrix/imatrix.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/server",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -DSERVER_VERBOSE=1 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/examples/server -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/server.dir/server.cpp.o -c /root/AICAS/llama_cpp/examples/server/server.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/server/server.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/examples/export-lora",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/examples -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/export-lora.dir/export-lora.cpp.o -c /root/AICAS/llama_cpp/examples/export-lora/export-lora.cpp",
+  "file": "/root/AICAS/llama_cpp/examples/export-lora/export-lora.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/pocs/vdot",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/pocs -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/q8dot.dir/q8dot.cpp.o -c /root/AICAS/llama_cpp/pocs/vdot/q8dot.cpp",
+  "file": "/root/AICAS/llama_cpp/pocs/vdot/q8dot.cpp"
+},
+{
+  "directory": "/root/AICAS/llama_cpp/build/pocs/vdot",
+  "command": "/usr/bin/c++  -DGGML_SCHED_MAX_COPIES=4 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/root/AICAS/llama_cpp/pocs -I/root/AICAS/llama_cpp/common/. -I/root/AICAS/llama_cpp/.  -O3 -DNDEBUG   -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -std=gnu++11 -o CMakeFiles/vdot.dir/vdot.cpp.o -c /root/AICAS/llama_cpp/pocs/vdot/vdot.cpp",
+  "file": "/root/AICAS/llama_cpp/pocs/vdot/vdot.cpp"
+}
+]

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ggml.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+stdio.h
+-
+
+/root/AICAS/llama_cpp/pocs/vdot/vdot.cpp
+cstdio
+-
+vector
+-
+random
+-
+chrono
+-
+cstdlib
+-
+cmath
+-
+cassert
+-
+cstring
+-
+array
+-
+ggml.h
+-
+

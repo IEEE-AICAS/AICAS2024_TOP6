@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test-grad0.dir/test-grad0.cpp.o CMakeFiles/test-grad0.dir/get-model.cpp.o ../common/CMakeFiles/json-schema-to-grammar.dir/json-schema-to-grammar.cpp.o  -o ../bin/test-grad0  ../common/libcommon.a ../libllama.a -pthread 
